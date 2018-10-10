@@ -11,6 +11,13 @@ Fer2013 used to use **Challenges in Representation Learning: Facial Expression R
 > The task is to categorize each face based on the emotion shown in the facial expression in to one of seven categories 
 > (0=Angry, 1=Disgust, 2=Fear, 3=Happy, 4=Sad, 5=Surprise, 6=Neutral).
 
+Those pictures are example of Fer2013 data.
+![fer2013_sad](./media/fer2013_sad.png)
+*fer2013 pic which label is sad*
+
+![fer2013_angry](./media/fer2013_angry.png)
+*fer2013 pic which label is angry*
+
 if you want to download Fer2013 data, go [here](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data).
 
 
