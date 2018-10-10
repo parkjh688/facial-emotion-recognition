@@ -12,6 +12,7 @@ Fer2013 used to use **Challenges in Representation Learning: Facial Expression R
 > (0=Angry, 1=Disgust, 2=Fear, 3=Happy, 4=Sad, 5=Surprise, 6=Neutral).
 
 Those pictures are example of Fer2013 data.
+
 <img src="./media/fer2013_sad.png" alt="fer2013 pic which label is sad" width="150" height="150"/>
 
 <img src="./media/fer2013_angry.png" alt="fer2013 pic which label is angry" width="150" height="150"/>
