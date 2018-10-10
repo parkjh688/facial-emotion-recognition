@@ -14,7 +14,7 @@ Fer2013 used to use **Challenges in Representation Learning: Facial Expression R
 Those pictures are example of Fer2013 data.
 
 
-<img src="./media/fer2013_sad.png" align="center" alt="fer2013 pic which label is sad" width="150" height="150"/> <img src="./media/fer2013_angry.png" align="center" alt="fer2013 pic which label is angry" width="150" height="150"/>
+<img src="./media/fer2013_angry.png" align="center" alt="fer2013 pic which label is angry" width="150" height="150"/> <img src="./media/fer2013_disgust.png" align="center" alt="fer2013 pic which label is disgust" width="150" height="150"/> <img src="./media/fer2013_fear.png" align="center" alt="fer2013 pic which label is fear" width="150" height="150"/> <img src="./media/fer2013_happy.png" align="center" alt="fer2013 pic which label is happy" width="150" height="150"/> <img src="./media/fer2013_sad.png" align="center" alt="fer2013 pic which label is sad" width="150" height="150"/> <img src="./media/fer2013_surprise.png" align="center" alt="fer2013 pic which label is surprise" width="150" height="150"/> <img src="./media/fer2013_neutral.png" align="center" alt="fer2013 pic which label is neutral" width="150" height="150"/>
 
 
 if you want to download Fer2013 data, go [here](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data).
