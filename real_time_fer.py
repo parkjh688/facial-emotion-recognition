@@ -23,7 +23,7 @@ class RealTimeFER():
 			if ret:
 				gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
 
-				face_cascade = cv2.CascadeClassifier('/Users/junghyun/PycharmProjects/facial-emotion-recognition/haarcascade_frontalface_alt.xml')
+				face_cascade = cv2.CascadeClassifier('./haarcascade_frontalface_alt.xml')
 				faces = face_cascade.detectMultiScale(gray, 1.3, 5)
 
 				for (x, y, w, h) in faces:
