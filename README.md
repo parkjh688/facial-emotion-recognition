@@ -17,6 +17,8 @@ Those pictures are example of Fer2013 data.
 
 <img src="./media/fer2013_sad.png" align="left" alt="fer2013 pic which label is sad" width="150" height="150"/>
 
+<br></br>
+
 <img src="./media/fer2013_angry.png" align="right" alt="fer2013 pic which label is angry" width="150" height="150"/>
 
 <br></br>
