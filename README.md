@@ -39,6 +39,9 @@ There are two ways to use this code.
 if you want `Start with the model what I trained` follow this code.
 
 ```python
+# download trained model
+sh model_download.sh
+
 # start facial emotion recognition
 python real_time_fer.py
 ```
